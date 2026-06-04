@@ -12,10 +12,10 @@ I'm an undergraduate at NUS College majoring in Data Science and Analytics, curr
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![SentenceTransformers](https://img.shields.io/badge/SentenceTransformers-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat)
+![SentenceTransformers](https://img.shields.io/badge/SentenceTransformers-FFD21E?style=flat)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ### Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-333333?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julius-ng-hc/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julius-ng-hc/)
