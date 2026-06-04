@@ -18,4 +18,4 @@ I'm an undergraduate at NUS College majoring in Data Science and Analytics, curr
 
 ### Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julius-ng-hc/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julius-ng-hc/)
