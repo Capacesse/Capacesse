@@ -11,15 +11,15 @@ Data Science & Analytics undergraduate at NUS College, working in QA and test au
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat)
 ![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2D4552?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0UyNTc0QyIgZD0iTTIgNi41QzUgNy41IDkgNi41IDExLjUgNC41Yy44IDIgMS4yIDQuNS44IDctLjUgMy41LTMgNi41LTYuNSA2QzIuNSAxNyAxLjIgMTMgMS41IDljLjEtMSAuMi0xLjguNS0yLjV6Ii8%2BPHBhdGggZmlsbD0iIzJFQUQzMyIgZD0iTTExIDMuNWMyLjUgMiA2LjUgMy4yIDEwLjUgMi41LjYgMSAuNCAzLS4yIDYuNS0xIDUuNS00LjUgOS41LTkuNSA4LjVzLTYuNS02LTUuNS0xMS41Yy42LTMuMiAxLjgtNS4yIDIuNy02IC43LS42IDEuMy0uNSAyIDB6Ii8%2BPHBhdGggZmlsbD0iIzJENDU1MiIgZD0iTTQgOS41bDMtLjhjLS4xIDEuMS0xIDEuOC0yIDEuNy0uNy0uMS0xLS45LTEtLjl6bTYuNSAwYzEtLjkgMi41LS43IDMuMi40bC0zLjItLjR6bTUuOCAxLjJjMS0uOSAyLjUtLjcgMy4yLjRsLTMuMi0uNHptLTUuOCAyLjhsNyAxLjhjLS44IDEuOC0yLjggMi42LTQuNyAyLjEtMS44LS41LTIuNy0yLjEtMi4zLTMuOXoiLz48L3N2Zz4%3D)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-293E40?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzgxQjVBMSI%2BPHBhdGggZD0iTTEyIDJBMTAgMTAgMCAwIDAgMiAxMmMwIDMgMS4zIDUuNyAzLjQgNy41LjYuNSAxLjUuNSAyLS4xIDEtMS4xIDIuNC0xLjggNC0xLjhoMS4yYzEuNiAwIDMgLjcgNCAxLjguNS42IDEuNC42IDIgLjFBMTAgMTAgMCAwIDAgMjIgMTIgMTAgMTAgMCAwIDAgMTIgMnptMCAxMy41YTMuNSAzLjUgMCAxIDEgMC03IDMuNSAzLjUgMCAwIDEgMCA3eiIvPjwvc3ZnPg%3D%3D)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2D4552?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0UyNTc0QyIgZD0iTTIgNi41QzUgNy41IDkgNi41IDExLjUgNC41Yy44IDIgMS4yIDQuNS44IDctLjUgMy41LTMgNi41LTYuNSA2QzIuNSAxNyAxLjIgMTMgMS41IDljLjEtMSAuMi0xLjguNS0yLjV6Ii8%2BPHBhdGggZmlsbD0iIzJFQUQzMyIgZD0iTTExIDMuNWMyLjUgMiA2LjUgMy4yIDEwLjUgMi41LjYgMSAuNCAzLS4yIDYuNS0xIDUuNS00LjUgOS41LTkuNSA4LjVzLTYuNS02LTUuNS0xMS41Yy42LTMuMiAxLjgtNS4yIDIuNy02IC43LS42IDEuMy0uNSAyIDB6Ii8%2BPHBhdGggZmlsbD0iIzJENDU1MiIgZD0iTTQgOS41bDMtLjhjLS4xIDEuMS0xIDEuOC0yIDEuNy0uNy0uMS0xLS45LTEtLjl6bTYuNSAwYzEtLjkgMi41LS43IDMuMi40bC0zLjItLjR6bTUuOCAxLjJjMS0uOSAyLjUtLjcgMy4yLjRsLTMuMi0uNHptLTUuOCAyLjhsNyAxLjhjLS44IDEuOC0yLjggMi42LTQuNyAyLjEtMS44LS41LTIuNy0yLjEtMi4zLTMuOXoiLz48L3N2Zz4%3D)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-293E40?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzgxQjVBMSI%2BPHBhdGggZD0iTTEyIDJBMTAgMTAgMCAwIDAgMiAxMmMwIDMgMS4zIDUuNyAzLjQgNy41LjYuNSAxLjUuNSAyLS4xIDEtMS4xIDIuNC0xLjggNC0xLjhoMS4yYzEuNiAwIDMgLjcgNCAxLjguNS42IDEuNC42IDIgLjFBMTAgMTAgMCAwIDAgMjIgMTIgMTAgMTAgMCAwIDAgMTIgMnptMCAxMy41YTMuNSAzLjUgMCAxIDEgMC03IDMuNSAzLjUgMCAwIDEgMCA3eiIvPjwvc3ZnPg%3D%3D)
 
 ### Let's Connect!
 
